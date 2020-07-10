@@ -20,7 +20,14 @@
 			<Item Name="User Event - Stop.lvlib" Type="Library" URL="../Support/Stop User Event/User Event - Stop.lvlib"/>
 		</Item>
 		<Item Name="Controls" Type="Folder"/>
-		<Item Name="Modules" Type="Folder"/>
+		<Item Name="Modules" Type="Folder">
+			<Item Name="ATM_Controller.lvlib" Type="Library" URL="../Modules/ATM Controller/ATM_Controller.lvlib"/>
+			<Item Name="User Console.lvlib" Type="Library" URL="../Modules/User Console/User Console.lvlib"/>
+			<Item Name="Display Console.lvlib" Type="Library" URL="../Modules/Display Console/Display Console.lvlib"/>
+			<Item Name="Sensor Interface.lvlib" Type="Library" URL="../Modules/Sensor Interface/Sensor Interface.lvlib"/>
+			<Item Name="COnfiguration Database.lvlib" Type="Library" URL="../Modules/Configuration Database/COnfiguration Database.lvlib"/>
+			<Item Name="Error handler.lvlib" Type="Library" URL="../Modules/Error Handler/Error handler.lvlib"/>
+		</Item>
 		<Item Name="Application Launcher.vi" Type="VI" URL="../Application Launcher.vi"/>
 		<Item Name="User Event Tester.vi" Type="VI" URL="../User Event Tester.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
