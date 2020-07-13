@@ -39,6 +39,7 @@
 	<Item Name="API" Type="Folder">
 		<Item Name="Initialize.vi" Type="VI" URL="../API/Initialize.vi"/>
 		<Item Name="Update Message.vi" Type="VI" URL="../API/Update Message.vi"/>
+		<Item Name="Update transaction.vi" Type="VI" URL="../API/Update transaction.vi"/>
 		<Item Name="Log IN Display.vi" Type="VI" URL="../API/Log IN Display.vi"/>
 		<Item Name="Terminate msg.vi" Type="VI" URL="../API/Terminate msg.vi"/>
 		<Item Name="Error.vi" Type="VI" URL="../API/Error.vi"/>
