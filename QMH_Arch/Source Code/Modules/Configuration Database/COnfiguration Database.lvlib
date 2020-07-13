@@ -39,6 +39,7 @@
 	<Item Name="API" Type="Folder">
 		<Item Name="Initialize.vi" Type="VI" URL="../API/Initialize.vi"/>
 		<Item Name="Update DB.vi" Type="VI" URL="../API/Update DB.vi"/>
+		<Item Name="Search DB.vi" Type="VI" URL="../API/Search DB.vi"/>
 		<Item Name="Error.vi" Type="VI" URL="../API/Error.vi"/>
 		<Item Name="Exit.vi" Type="VI" URL="../API/Exit.vi"/>
 	</Item>
@@ -55,6 +56,7 @@
 		<Item Name="Enqueue Message.vi" Type="VI" URL="../Private VIs/Enqueue Message.vi"/>
 		<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Private VIs/Obtain Message Queue.vi"/>
 		<Item Name="FG Queue.vi" Type="VI" URL="../Private VIs/FG Queue.vi"/>
+		<Item Name="Default DB.vi" Type="VI" URL="../Private VIs/Default DB.vi"/>
 	</Item>
 	<Item Name="Configuration Database Main.vi" Type="VI" URL="../Configuration Database Main.vi"/>
 </Library>

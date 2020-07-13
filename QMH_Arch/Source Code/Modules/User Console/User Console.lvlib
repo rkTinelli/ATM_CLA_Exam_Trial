@@ -38,6 +38,8 @@
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="API" Type="Folder">
 		<Item Name="Initialize.vi" Type="VI" URL="../API/Initialize.vi"/>
+		<Item Name="User_Login.vi" Type="VI" URL="../API/User_Login.vi"/>
+		<Item Name="Idle.vi" Type="VI" URL="../API/Idle.vi"/>
 		<Item Name="Error.vi" Type="VI" URL="../API/Error.vi"/>
 		<Item Name="Exit.vi" Type="VI" URL="../API/Exit.vi"/>
 	</Item>
